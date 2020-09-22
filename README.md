@@ -1,7 +1,7 @@
 # EDA of Fatal Police Shootings in the USA: Project Overview
 
 # Code and Resources Used
-*Python Version: 3.7
+* Python Version: 3.7
 #### Packages: pandas, matplotlib, seaborn, statsmodel
 #### Data Source: Washington Post dataset of every fatal shooting in the United States by a police officer in the line of duty since January 1, 2015. Retrieved from Kaggle
 
