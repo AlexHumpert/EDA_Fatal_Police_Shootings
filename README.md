@@ -2,11 +2,11 @@
 
 # Code and Resources Used
 #### Python Version: 3.7
-#### Packages: ##### pandas, matplotlib, seaborn, statsmodel
+#### Packages: pandas, matplotlib, seaborn, statsmodel
 #### Data Source: Washington Post dataset of every fatal shooting in the United States by a police officer in the line of duty since January 1, 2015. Retrieved from Kaggle
 
 # Data Set
-..* Name
+• Name
 ••* Date
 ••* Manner of Death
 ••* Armed?
