@@ -6,7 +6,7 @@
 #### Data Source: Washington Post dataset of every fatal shooting in the United States by a police officer in the line of duty since January 1, 2015. Retrieved from Kaggle
 
 # Data Set
-••* Name
+..* Name
 ••* Date
 ••* Manner of Death
 ••* Armed?
